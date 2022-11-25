@@ -1,0 +1,4 @@
+This Api is made by web scrapping Just Dial website
+and using postman agent
+
+the user will get nearby Generic-Medicine-Retailers in Delhi NCR.
